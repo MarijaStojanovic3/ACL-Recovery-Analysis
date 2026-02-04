@@ -16,6 +16,7 @@ The goal was to calculate the **Limb Symmetry Index (LSI)**, which is a critical
 The analysis compares the LSI of patients against healthy controls at two different speeds: **iso90** and **iso180**. 
 * A **90% Clinical Threshold** is highlighted as the benchmark for successful rehabilitation.
 
+![LSI Comparison Plot](Final_LSI_Plot.png)
 
 
 
