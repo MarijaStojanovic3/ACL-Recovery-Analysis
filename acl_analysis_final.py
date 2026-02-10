@@ -5,7 +5,7 @@ from scipy.stats import ttest_ind
 
 # 1. Loading the Excel file you just created
 try:
-    # Promenili smo ime fajla i funkciju u read_excel
+   
     df = pd.read_excel('ACL_Research_Results.xlsx')
     print("✅ File loaded successfully!")
 except FileNotFoundError:
@@ -44,4 +44,5 @@ plt.tight_layout()
 # Save the plot automatically
 plt.savefig('Final_LSI_Plot.png', dpi=300)
 print("✅ Plot saved as 'Final_LSI_Plot.png'")
+
 plt.show()
